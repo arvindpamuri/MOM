@@ -1,0 +1,9 @@
+[30-Nov-2018 13:40:38 Asia/Kolkata] PHP Notice:  Trying to get property 'fruits' of non-object in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 3
+[30-Nov-2018 13:40:42 Asia/Kolkata] PHP Notice:  Trying to get property 'fruits' of non-object in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 3
+[30-Nov-2018 13:41:00 Asia/Kolkata] PHP Notice:  Trying to get property 'fruits' of non-object in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 3
+[30-Nov-2018 13:41:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 2
+[30-Nov-2018 13:42:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 2
+[30-Nov-2018 13:44:24 Asia/Kolkata] PHP Warning:  file_get_contents(http://innovationcenter.gitam.edu/test3/interaction/data.json): failed to open stream: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 2
+[30-Nov-2018 13:45:18 Asia/Kolkata] PHP Warning:  file_get_contents(http://innovationcenter.gitam.edu/test3/interaction/data.json): failed to open stream: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\interaction\test.php on line 2

@@ -1,0 +1,4 @@
+[30-Nov-2018 10:45:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\uiux\test\main_page.php on line 44
+[30-Nov-2018 10:47:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\uiux\test\main_page.php on line 44
+[10-Mar-2019 19:22:56 Asia/Kolkata] PHP Warning:  require_once(../dbconnect.php): failed to open stream: No such file or directory in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\uiux\test\main_page.php on line 2
+[10-Mar-2019 19:22:56 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '../dbconnect.php' (include_path='.;C:\php\pear') in C:\CATS_PROJECTS\INNOVATION_CENTER\test3\uiux\test\main_page.php on line 2

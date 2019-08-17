@@ -1,0 +1,10 @@
+product_id init on line 139;
+final value of product_id on line 152
+
+product_quant init on line 140;
+final value of product_id on line 153
+
+totalVal init on line 141;
+final value of product_id on line 154
+
+
